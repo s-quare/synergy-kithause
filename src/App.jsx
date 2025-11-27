@@ -6,7 +6,7 @@ import Collections from "./Pages/Collections";
 import Profile from "./Pages/Profile";
 import Cart from "./Pages/Cart";
 import OrderHistory from "./Pages/OrderHistory";
-import CheckOut from "./Pages/Checkout";
+import CheckOut from "./Pages/CheckOut";
 import ProductInfo from "./Pages/ProductInfo";
 import NotFound from "./Pages/NotFound";
 import "./App.css";
