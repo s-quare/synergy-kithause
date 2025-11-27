@@ -1,0 +1,1253 @@
+[
+  {
+    "kit_id": "SSK001",
+    "kit_name": "The Cornerstone",
+    "gender": "Male",
+    "category": "Work & Professional Vibes",
+    "price_naira": 95000,
+    "selected": false,
+    "selectedTheme": null,
+    "selectedSize": null,
+    "quantity": 1,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "Custom"
+    ],
+    "theme_colors": [
+      "Navy Blue",
+      "Charcoal Grey",
+      "Tan Brown",
+      "White"
+    ],
+    "image_url_base": "cornerstone",
+    "kit_description": "Stepping into the office is no longer just a routine; it's a calculated move. **The Cornerstone** kit is meticulously assembled for the man who doesn't just attend meetings—he commands them. Every thread of the tailored blazer speaks of silent confidence, perfectly complemented by the razor-sharp dress shirt. The custom tie set and minimalist wrist watch provide accents of refined taste, while the addition of bespoke cufflinks and a silk pocket square elevates the entire ensemble beyond mere attire into an expression of undisputed success. This is more than an outfit; it’s your professional armor, designed for the executive who knows that presentation is the first, and most important, strategic play.",
+    "components": [
+      {
+        "comp_id": "C001-A",
+        "name": "Tailored Blazer",
+        "comp_description": "Structured, slim-fit blazer designed for a modern professional silhouette."
+      },
+      {
+        "comp_id": "C001-B",
+        "name": "Dress Shirt",
+        "comp_description": "Crisp, premium cotton shirt for all-day comfort and sharp style."
+      },
+      {
+        "comp_id": "C001-C",
+        "name": "Leather Dress Shoes",
+        "comp_description": "Classic leather shoes with a polished finish and non-slip sole."
+      },
+      {
+        "comp_id": "C001-D",
+        "name": "Custom Tie Set",
+        "comp_description": "A silk-blend tie and coordinated lapel pin for versatility."
+      },
+      {
+        "comp_id": "C001-E",
+        "name": "Minimalist Wrist Watch",
+        "comp_description": "Sleek, stainless steel watch with a simple, elegant dial."
+      },
+      {
+        "comp_id": "C001-F",
+        "name": "Premium Silk Pocket Square",
+        "comp_description": "Hand-rolled edges with a subtle geometric pattern."
+      },
+      {
+        "comp_id": "C001-G",
+        "name": "Branded Metal Cufflinks",
+        "comp_description": "Discreet, engraved metal cufflinks for a touch of class."
+      }
+    ]
+  },
+  {
+    "kit_id": "SSK002",
+    "kit_name": "The Power Hour",
+    "gender": "Female",
+    "category": "Work & Professional Vibes",
+    "price_naira": 88000,
+    "selected": false,
+    "selectedTheme": null,
+    "selectedSize": null,
+    "quantity": 1,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "Custom"
+    ],
+    "theme_colors": [
+      "Deep Sapphire",
+      "Camel Tan",
+      "Cream",
+      "Gold"
+    ],
+    "image_url_base": "power",
+    "kit_description": "Own every room you enter. **The Power Hour** kit is a masterclass in professional femininity, engineered for the woman who dictates her own success. The structured shift dress offers flawless elegance and movement, while the coordinating block heels provide stability and height. Carry your ambition in the high-end leather tote—a functional statement piece. The delicate gold-plated studs and luxurious silk scarf add layers of sophistication, ensuring your look transitions seamlessly from a high-stakes meeting to an exclusive client dinner. This kit provides the confidence that only comes from knowing your style is as impeccable as your ambition.",
+    "components": [
+      {
+        "comp_id": "C002-A",
+        "name": "Structured Shift Dress",
+        "comp_description": "A tailored dress that retains shape and offers a polished, professional fit."
+      },
+      {
+        "comp_id": "C002-B",
+        "name": "Block Heels",
+        "comp_description": "Comfortable, stylish block heels for all-day wear and support."
+      },
+      {
+        "comp_id": "C002-C",
+        "name": "Designer Silk Scarf",
+        "comp_description": "A vibrant, patterned silk scarf that can be worn multiple ways."
+      },
+      {
+        "comp_id": "C002-D",
+        "name": "High-End Leather Tote",
+        "comp_description": "Spacious, durable leather tote perfect for documents and personal items."
+      },
+      {
+        "comp_id": "C002-E",
+        "name": "Gold-Plated Minimalist Stud Earrings",
+        "comp_description": "Small, elegant studs providing a subtle sparkle."
+      },
+      {
+        "comp_id": "C002-F",
+        "name": "Fine-Gauge Neutral Trouser Socks",
+        "comp_description": "Thin, comfortable socks designed to be worn under trousers or high boots."
+      },
+      {
+        "comp_id": "C002-G",
+        "name": "Professional Pen & Small Notebook Set",
+        "comp_description": "High-quality essentials for notes and signatures."
+      }
+    ]
+  },
+  {
+    "kit_id": "SSK003",
+    "kit_name": "The Flex Hybrid",
+    "gender": "Unisex",
+    "category": "Work & Professional Vibes",
+    "price_naira": 72000,
+    "selected": false,
+    "selectedTheme": null,
+    "selectedSize": null,
+    "quantity": 1,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "Custom"
+    ],
+    "theme_colors": [
+      "Light Blue",
+      "Khaki",
+      "White",
+      "Silver"
+    ],
+    "image_url_base": "flex",
+    "kit_description": "Blurring the lines between the office and the weekend, **The Flex Hybrid** is the new uniform for the modern multi-tasker. The premium Oxford shirt and slim-fit trousers offer a polished appearance while the minimalist sneakers ensure maximum comfort and mobility. This kit includes thoughtful tech-forward accessories like a smart watch band and an RFID-blocking wallet, recognizing that professional life today extends far beyond the desk. It’s the smart choice for the creative professional who values both aesthetic and agility.",
+    "components": [
+      {
+        "comp_id": "C003-A",
+        "name": "Premium Oxford Shirt",
+        "comp_description": "Soft yet structured long-sleeve shirt, easily dressed up or down."
+      },
+      {
+        "comp_id": "C003-B",
+        "name": "Slim-Fit Dark Trousers",
+        "comp_description": "Versatile dark trousers with a modern, tapered fit."
+      },
+      {
+        "comp_id": "C003-C",
+        "name": "Minimalist Sneakers",
+        "comp_description": "Clean, low-profile leather sneakers suitable for business casual settings."
+      },
+      {
+        "comp_id": "C003-D",
+        "name": "Smart Watch Band",
+        "comp_description": "High-quality leather or silicone band for a smart watch."
+      },
+      {
+        "comp_id": "C003-E",
+        "name": "RFID-Blocking Wallet",
+        "comp_description": "Sleek wallet designed for security and minimal bulk."
+      },
+      {
+        "comp_id": "C003-F",
+        "name": "Stylish Leather Card Holder",
+        "comp_description": "Compact holder for essential cards."
+      },
+      {
+        "comp_id": "C003-G",
+        "name": "Anti-Blue Light Glasses",
+        "comp_description": "Contemporary frames designed to reduce eye strain."
+      }
+    ]
+  },
+  {
+    "kit_id": "SSK004",
+    "kit_name": "The Strategy Session",
+    "gender": "Male",
+    "category": "Work & Professional Vibes",
+    "price_naira": 78000,
+    "selected": false,
+    "selectedTheme": null,
+    "selectedSize": null,
+    "quantity": 1,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "Custom"
+    ],
+    "theme_colors": [
+      "Olive Green",
+      "Suede Brown",
+      "White",
+      "Stainless Steel"
+    ],
+    "image_url_base": "strategy",
+    "kit_description": "For the days when networking and brainstorming take precedence over spreadsheets. **The Strategy Session** is refined casual, allowing comfort without sacrificing authority. The slim-fit chinos and tailored polo shirt offer a sharp yet relaxed base, anchored by luxurious suede loafers. The braided leather belt and polished accessories complete a look that says 'I'm approachable, but I'm in charge.' The stainless steel water bottle ensures you stay focused and hydrated throughout your most intense planning days.",
+    "components": [
+      {
+        "comp_id": "C004-A",
+        "name": "Slim-Fit Chinos",
+        "comp_description": "Comfortable cotton blend chinos with a modern cut."
+      },
+      {
+        "comp_id": "C004-B",
+        "name": "Tailored Polo Shirt",
+        "comp_description": "Structured polo shirt made from thick, premium material."
+      },
+      {
+        "comp_id": "C004-C",
+        "name": "Suede Loafers",
+        "comp_description": "Slip-on suede loafers offering elegance and comfort."
+      },
+      {
+        "comp_id": "C004-D",
+        "name": "Braided Leather Belt",
+        "comp_description": "Textured leather belt to match the footwear."
+      },
+      {
+        "comp_id": "C004-E",
+        "name": "Stainless Steel Water Bottle",
+        "comp_description": "Insulated bottle for maintaining drink temperature."
+      },
+      {
+        "comp_id": "C004-F",
+        "name": "Premium Solid-Colour Socks",
+        "comp_description": "High-quality, durable dress socks."
+      },
+      {
+        "comp_id": "C004-G",
+        "name": "Small, Discreet Tie Clip",
+        "comp_description": "Minimalist metal clip for a subtle professional touch."
+      }
+    ]
+  },
+  {
+    "kit_id": "SSK005",
+    "kit_name": "The Cloud Runner",
+    "gender": "Unisex",
+    "category": "Comfort & Athleisure",
+    "price_naira": 62000,
+    "selected": false,
+    "selectedTheme": null,
+    "selectedSize": null,
+    "quantity": 1,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "Custom"
+    ],
+    "theme_colors": [
+      "Slate Grey",
+      "Electric Blue",
+      "White",
+      "Black"
+    ],
+    "image_url_base": "runner",
+    "kit_description": "Engineered for speed and supreme comfort on the go. **The Cloud Runner** is the perfect blend of performance technology and urban style. The premium track jacket and trousers ensure you look sharp warming up or winding down, while the technical sports socks and cutting-edge running shoes offer maximum support. Complete the experience with Bluetooth earbuds and a quick-dry headband—everything you need for a focused, uninterrupted workout or a speedy weekend errand run. This kit is where motivation meets movement.",
+    "components": [
+      {
+        "comp_id": "C005-A",
+        "name": "Premium Track Jacket",
+        "comp_description": "Moisture-wicking jacket with zipped pockets."
+      },
+      {
+        "comp_id": "C005-B",
+        "name": "Matching Track Trousers",
+        "comp_description": "Coordinating trousers with a tapered fit."
+      },
+      {
+        "comp_id": "C005-C",
+        "name": "Running Shoes",
+        "comp_description": "Lightweight shoes with cushioned soles for high-impact activity."
+      },
+      {
+        "comp_id": "C005-D",
+        "name": "Technical Sports Socks",
+        "comp_description": "Breathable, high-performance athletic socks."
+      },
+      {
+        "comp_id": "C005-E",
+        "name": "Bluetooth Earbuds",
+        "comp_description": "Wireless earbuds with secure fit for exercise."
+      },
+      {
+        "comp_id": "C005-F",
+        "name": "Lightweight, Quick-Dry Headband",
+        "comp_description": "Absorbent band to keep hair and sweat contained."
+      },
+      {
+        "comp_id": "C005-G",
+        "name": "Small Insulated Water Bottle Holder",
+        "comp_description": "Carrier for hydration during workouts."
+      }
+    ]
+  },
+  {
+    "kit_id": "SSK006",
+    "kit_name": "The Cozy Core",
+    "gender": "Female",
+    "category": "Comfort & Athleisure",
+    "price_naira": 45000,
+    "selected": false,
+    "selectedTheme": null,
+    "selectedSize": null,
+    "quantity": 1,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "Custom"
+    ],
+    "theme_colors": [
+      "Oatmeal",
+      "Soft Pink",
+      "Cream",
+      "Fuzzy White"
+    ],
+    "image_url_base": "cozy",
+    "kit_description": "Embrace the art of unwinding with **The Cozy Core**. This is your luxury invitation to relax, built around an oversized sweatshirt and ultra-soft joggers that feel like a gentle hug. The fuzzy house slides provide plush comfort for your feet, while a weighted eye mask promises the deepest rest. With the addition of fluffy fingerless gloves and a custom room mist, this kit transforms your space into a personal sanctuary of quiet and warmth. Perfect for self-care Sundays and serene evenings.",
+    "components": [
+      {
+        "comp_id": "C006-A",
+        "name": "Oversized Sweatshirt",
+        "comp_description": "Super-soft, fleece-lined sweatshirt for maximum warmth."
+      },
+      {
+        "comp_id": "C006-B",
+        "name": "Ultra-Soft Joggers",
+        "comp_description": "Matching joggers with an elastic waist and gentle fit."
+      },
+      {
+        "comp_id": "C006-C",
+        "name": "Fuzzy House Slides",
+        "comp_description": "Plush, slip-on footwear for indoor comfort."
+      },
+      {
+        "comp_id": "C006-D",
+        "name": "Custom Hair Scrunchies",
+        "comp_description": "Soft silk or velvet scrunchies that prevent hair damage."
+      },
+      {
+        "comp_id": "C006-E",
+        "name": "Premium Weighted Eye Mask",
+        "comp_description": "Mask designed to block light and apply gentle pressure for relaxation."
+      },
+      {
+        "comp_id": "C006-F",
+        "name": "Fluffy Hand Wear (Fingerless Gloves)",
+        "comp_description": "Soft, fuzzy gloves that keep hands warm while allowing use of a phone."
+      },
+      {
+        "comp_id": "C006-G",
+        "name": "Custom Room Mist",
+        "comp_description": "A calming, custom-blended aromatic mist for your space."
+      }
+    ]
+  },
+  {
+    "kit_id": "SSK007",
+    "kit_name": "The Studio Flow",
+    "gender": "Female",
+    "category": "Comfort & Athleisure",
+    "price_naira": 55000,
+    "selected": false,
+    "selectedTheme": null,
+    "selectedSize": null,
+    "quantity": 1,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "Custom"
+    ],
+    "theme_colors": [
+      "Black",
+      "Deep Plum",
+      "Dusty Rose"
+    ],
+    "image_url_base": "studio",
+    "kit_description": "Achieve perfect form and absolute focus with **The Studio Flow** kit. Designed for yoga, Pilates, and light training, the high-waisted leggings and technical sports bra offer flawless support and coverage. Slip-on yoga shoes and resistance bands are your tools for a seamless session, while the microfiber towel ensures post-workout freshness. The non-slip socks and small cosmetic bag keep every detail of your routine organized, allowing you to focus completely on your movement and breath.",
+    "components": [
+      {
+        "comp_id": "C007-A",
+        "name": "High-Waisted Leggings",
+        "comp_description": "Squat-proof fabric with high compression and support."
+      },
+      {
+        "comp_id": "C007-B",
+        "name": "Technical Sports Bra",
+        "comp_description": "Medium-impact bra with breathable mesh panels."
+      },
+      {
+        "comp_id": "C007-C",
+        "name": "Slip-On Yoga Shoes",
+        "comp_description": "Lightweight, flexible shoes for studio grip."
+      },
+      {
+        "comp_id": "C007-D",
+        "name": "Resistance Bands",
+        "comp_description": "Set of three bands with varying resistance levels."
+      },
+      {
+        "comp_id": "C007-E",
+        "name": "Microfiber Gym Towel",
+        "comp_description": "Ultra-absorbent, quick-drying towel."
+      },
+      {
+        "comp_id": "C007-F",
+        "name": "Non-Slip Yoga Socks",
+        "comp_description": "Socks with grip dots for mat work."
+      },
+      {
+        "comp_id": "C007-G",
+        "name": "Small Branded Cosmetic Bag",
+        "comp_description": "Compact bag for post-workout toiletries."
+      }
+    ]
+  },
+  {
+    "kit_id": "SSK008",
+    "kit_name": "The Weekend Grind",
+    "gender": "Male",
+    "category": "Comfort & Athleisure",
+    "price_naira": 68000,
+    "selected": false,
+    "selectedTheme": null,
+    "selectedSize": null,
+    "quantity": 1,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "Custom"
+    ],
+    "theme_colors": [
+      "Forest Green",
+      "Dark Grey",
+      "Retro Red"
+    ],
+    "image_url_base": "weekend",
+    "kit_description": "Effortlessly cool and ready for anything. **The Weekend Grind** is for the man whose downtime involves action. The pullover hoodie provides essential comfort, while the cargo shorts are functional and stylish. Retro basketball sneakers and a classic baseball cap ground the look in timeless street sport aesthetics. Packed with a sturdy gym duffel bag and a compact foam roller, this kit ensures you transition smoothly from the gym to errands, always prepared, always comfortable.",
+    "components": [
+      {
+        "comp_id": "C008-A",
+        "name": "Pullover Hoodie",
+        "comp_description": "Heavyweight, comfortable hoodie with a large front pocket."
+      },
+      {
+        "comp_id": "C008-B",
+        "name": "Comfortable Cargo Shorts",
+        "comp_description": "Relaxed-fit shorts with deep utility pockets."
+      },
+      {
+        "comp_id": "C008-C",
+        "name": "Retro Basketball Sneakers",
+        "comp_description": "High-top style sneakers inspired by classic court footwear."
+      },
+      {
+        "comp_id": "C008-D",
+        "name": "Baseball Cap",
+        "comp_description": "Adjustable cap with subtle branding."
+      },
+      {
+        "comp_id": "C008-E",
+        "name": "Gym Duffel Bag",
+        "comp_description": "Spacious bag with separate compartments for shoes."
+      },
+      {
+        "comp_id": "C008-F",
+        "name": "High-Top Sport Socks",
+        "comp_description": "Thick, cushioned sport socks."
+      },
+      {
+        "comp_id": "C008-G",
+        "name": "Compact Foam Roller/Massage Ball",
+        "comp_description": "Portable tool for muscle recovery."
+      }
+    ]
+  },
+  {
+    "kit_id": "SSK009",
+    "kit_name": "The Urban Explorer",
+    "gender": "Male",
+    "category": "Casual & Streetwear",
+    "price_naira": 75000,
+    "selected": false,
+    "selectedTheme": null,
+    "selectedSize": null,
+    "quantity": 1,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "Custom"
+    ],
+    "theme_colors": [
+      "Olive Green",
+      "Black",
+      "Sand Beige",
+      "Silver"
+    ],
+    "image_url_base": "urban",
+    "kit_description": "Navigate the concrete jungle with style and utility. **The Urban Explorer** is built for the man who demands both form and function from his streetwear. The designer cargo pants offer multiple pockets for life on the move, while the high-top boots guarantee rugged style and durability. Toss on the heavyweight graphic tee for an effortless look. The added knit beanie provides style and warmth, while the statement cuff bracelet adds a refined, edgy detail. This kit is your passport to bold, comfortable street dominance, prepared for whatever the city throws at you.",
+    "components": [
+      {
+        "comp_id": "C009-A",
+        "name": "Designer Cargo Pants",
+        "comp_description": "Durable cotton twill pants with multi-pocket design and adjustable cuffs."
+      },
+      {
+        "comp_id": "C009-B",
+        "name": "Heavyweight Graphic Tee",
+        "comp_description": "Thick cotton tee with a contemporary, subtle graphic print."
+      },
+      {
+        "comp_id": "C009-C",
+        "name": "High-Top Boots",
+        "comp_description": "Rugged leather or canvas boots with strong traction and ankle support."
+      },
+      {
+        "comp_id": "C009-D",
+        "name": "Heavy-Duty Keyring",
+        "comp_description": "Industrial-style metal keyring with secure clasp."
+      },
+      {
+        "comp_id": "C009-E",
+        "name": "Quality Sunglasses",
+        "comp_description": "Durable frame sunglasses with polarized lenses."
+      },
+      {
+        "comp_id": "C009-F",
+        "name": "Knit Beanie (Head Warmer)",
+        "comp_description": "Thick-knit, stylish beanie for cold weather."
+      },
+      {
+        "comp_id": "C009-G",
+        "name": "Statement Cuff Bracelet (Bangle)",
+        "comp_description": "Wide, metal cuff bracelet with a minimalist design."
+      }
+    ]
+  },
+  {
+    "kit_id": "SSK010",
+    "kit_name": "The Coffee Date",
+    "gender": "Unisex",
+    "category": "Casual & Streetwear",
+    "price_naira": 58000,
+    "selected": false,
+    "selectedTheme": null,
+    "selectedSize": null,
+    "quantity": 1,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "Custom"
+    ],
+    "theme_colors": [
+      "Taupe",
+      "Dark Denim",
+      "Clean White"
+    ],
+    "image_url_base": "coffee",
+    "kit_description": "Simple, chic, and perfectly tailored for those relaxed social moments. **The Coffee Date** kit combines effortless comfort with clean sophistication. The crewneck sweater and dark wash denim jeans are a timeless pairing, elevated by crisp white trainers. The ensemble is completed with playful enamel pins and a vintage-style tote bag for essentials. With the addition of minimalist silver jewelry, this look is approachable yet polished, ensuring your style is as inviting as the aroma of your morning brew.",
+    "components": [
+      {
+        "comp_id": "C010-A",
+        "name": "Crewneck Sweater",
+        "comp_description": "Soft knit sweater with a relaxed, comfortable fit."
+      },
+      {
+        "comp_id": "C010-B",
+        "name": "Dark Wash Denim Jeans",
+        "comp_description": "Classic fit, high-quality dark denim that holds its shape."
+      },
+      {
+        "comp_id": "C010-C",
+        "name": "Clean White Trainers",
+        "comp_description": "Minimalist white leather or canvas trainers."
+      },
+      {
+        "comp_id": "C010-D",
+        "name": "Custom Enamel Pin Set",
+        "comp_description": "A set of four unique, stylized enamel pins."
+      },
+      {
+        "comp_id": "C010-E",
+        "name": "Vintage-Style Tote Bag",
+        "comp_description": "Durable canvas tote with leather straps."
+      },
+      {
+        "comp_id": "C010-F",
+        "name": "Striped or Patterned Socks",
+        "comp_description": "A fun, high-quality sock that peeks out subtly."
+      },
+      {
+        "comp_id": "C010-G",
+        "name": "Minimalist Silver Neck Chain Lace",
+        "comp_description": "Fine silver chain for a subtle jewelry accent."
+      }
+    ]
+  },
+  {
+    "kit_id": "SSK011",
+    "kit_name": "The Denim Legacy",
+    "gender": "Female",
+    "category": "Casual & Streetwear",
+    "price_naira": 65000,
+    "selected": false,
+    "selectedTheme": null,
+    "selectedSize": null,
+    "quantity": 1,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "Custom"
+    ],
+    "theme_colors": [
+      "Indigo Denim",
+      "Black Leather",
+      "Silver"
+    ],
+    "image_url_base": "legacy",
+    "kit_description": "Classic denim, reimagined for the modern woman. **The Denim Legacy** kit focuses on fit and texture, featuring high-rise skinny jeans that offer a flattering silhouette, paired with a fitted top and sturdy ankle boots. The statement hoop earrings and custom faux fur trim add luxury and flair. This is a versatile, confidence-boosting look that’s ready for a weekend outing, delivering effortless style that honors the timeless appeal of great denim.",
+    "components": [
+      {
+        "comp_id": "C011-A",
+        "name": "High-Rise Skinny Jeans",
+        "comp_description": "Comfortable stretch denim with an ultra-flattering high waist."
+      },
+      {
+        "comp_id": "C011-B",
+        "name": "Fitted Long-Sleeve Top",
+        "comp_description": "Soft, simple top that acts as a perfect base layer."
+      },
+      {
+        "comp_id": "C011-C",
+        "name": "Ankle Boots",
+        "comp_description": "Sleek black leather ankle boots with a manageable heel."
+      },
+      {
+        "comp_id": "C011-D",
+        "name": "Statement Hoop Earrings",
+        "comp_description": "Oversized, lightweight metal hoop earrings."
+      },
+      {
+        "comp_id": "C011-E",
+        "name": "Custom Faux Fur Trim",
+        "comp_description": "A detachable, luxurious faux fur trim for a jacket or collar."
+      },
+      {
+        "comp_id": "C011-F",
+        "name": "Patterned Bandana/Head Scarf",
+        "comp_description": "Vibrant scarf for hair or neck accessorizing."
+      },
+      {
+        "comp_id": "C011-G",
+        "name": "Small Crossbody Bag",
+        "comp_description": "Compact bag for essentials and hands-free movement."
+      }
+    ]
+  },
+  {
+    "kit_id": "SSK012",
+    "kit_name": "The Varsity Revival",
+    "gender": "Male",
+    "category": "Casual & Streetwear",
+    "price_naira": 79000,
+    "selected": false,
+    "selectedTheme": null,
+    "selectedSize": null,
+    "quantity": 1,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "Custom"
+    ],
+    "theme_colors": [
+      "Maroon",
+      "Cream",
+      "Black",
+      "Metallic"
+    ],
+    "image_url_base": "varsity",
+    "kit_description": "Tapping into vintage collegiate cool, **The Varsity Revival** is a nod to iconic sportswear and rebellious energy. The custom bomber jacket is the centerpiece, layered over a tailored T-shirt and paired with classic skateboard sneakers. The metal chain necklace and athletic headband infuse a modern, sporty edge. This kit is for the man who wears his history and his style with equal confidence, providing a cohesive look that is both nostalgic and perfectly contemporary.",
+    "components": [
+      {
+        "comp_id": "C012-A",
+        "name": "Custom Bomber Jacket",
+        "comp_description": "Classic bomber style with contrast sleeves and embroidered detail."
+      },
+      {
+        "comp_id": "C012-B",
+        "name": "Tailored T-Shirt",
+        "comp_description": "Fitted, high-quality t-shirt in a neutral color."
+      },
+      {
+        "comp_id": "C012-C",
+        "name": "Skateboard Sneakers",
+        "comp_description": "Flat-soled, durable sneakers with a retro look."
+      },
+      {
+        "comp_id": "C012-D",
+        "name": "Athletic Headband",
+        "comp_description": "Wide, elastic headband for sporty styling."
+      },
+      {
+        "comp_id": "C012-E",
+        "name": "Metal Chain Necklace",
+        "comp_description": "Chunky silver or matte black chain necklace."
+      },
+      {
+        "comp_id": "C012-F",
+        "name": "Long Waffle-Knit Socks",
+        "comp_description": "Thick, textured socks designed to be worn pulled up."
+      },
+      {
+        "comp_id": "C012-G",
+        "name": "Small Back Pack/Sling Bag",
+        "comp_description": "Compact, urban-style bag for small essentials."
+      }
+    ]
+  },
+  {
+    "kit_id": "SSK013",
+    "kit_name": "The Ocean Drive",
+    "gender": "Male",
+    "category": "Destination & Beachwear",
+    "price_naira": 55000,
+    "selected": false,
+    "selectedTheme": null,
+    "selectedSize": null,
+    "quantity": 1,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "Custom"
+    ],
+    "theme_colors": [
+      "Seafoam Green",
+      "White Linen",
+      "Mahogany Brown"
+    ],
+    "image_url_base": "ocean",
+    "kit_description": "Sophisticated relaxation for coastal escapes. **The Ocean Drive** kit is built for breezy elegance, featuring a lightweight linen beach shirt and matching drawstring trousers. Leather slides keep the look grounded in luxury, while the patterned bucket hat provides essential shade with style. The inclusion of a waterproof phone pouch and sleek, polarized sunglasses ensures your essentials are protected while you enjoy the view. This kit is your answer to looking effortlessly refined from the resort to the beachfront.",
+    "components": [
+      {
+        "comp_id": "C013-A",
+        "name": "Linen Beach Shirt",
+        "comp_description": "Lightweight, breathable linen shirt with a relaxed fit."
+      },
+      {
+        "comp_id": "C013-B",
+        "name": "Matching Drawstring Trousers",
+        "comp_description": "Coordinating linen trousers with a comfortable drawstring waist."
+      },
+      {
+        "comp_id": "C013-C",
+        "name": "Leather Slides",
+        "comp_description": "High-quality leather slip-ons suitable for wet or dry environments."
+      },
+      {
+        "comp_id": "C013-D",
+        "name": "Patterned Bucket Hat",
+        "comp_description": "A stylish, reversible hat offering sun protection."
+      },
+      {
+        "comp_id": "C013-E",
+        "name": "Oversized Beach Towel",
+        "comp_description": "Thick, ultra-absorbent towel with a unique design."
+      },
+      {
+        "comp_id": "C013-F",
+        "name": "Waterproof Phone Pouch",
+        "comp_description": "Secure pouch for taking phone near water."
+      },
+      {
+        "comp_id": "C013-G",
+        "name": "Sleek, Polarized Sunglasses",
+        "comp_description": "High-quality eyewear for glare reduction."
+      }
+    ]
+  },
+  {
+    "kit_id": "SSK014",
+    "kit_name": "The Island Muse",
+    "gender": "Female",
+    "category": "Destination & Beachwear",
+    "price_naira": 68000,
+    "selected": false,
+    "selectedTheme": null,
+    "selectedSize": null,
+    "quantity": 1,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "Custom"
+    ],
+    "theme_colors": [
+      "Turquoise",
+      "Flowing White",
+      "Woven Beige",
+      "Gold"
+    ],
+    "image_url_base": "island",
+    "kit_description": "Capture the spirit of paradise and perpetual sunshine. **The Island Muse** kit is defined by the effortless grace of the flowing maxi dress and a lightweight kimono cover-up. Strappy sandals keep the look breezy, while the wide-brim sun hat offers glamour and shade. The addition of a delicate anklet and a chic, woven beach bag ensures all your essentials are covered, making this kit the definition of vacation style—relaxed, radiant, and utterly beautiful.",
+    "components": [
+      {
+        "comp_id": "C014-A",
+        "name": "Flowing Maxi Dress",
+        "comp_description": "Lightweight, tiered dress with a flattering drape."
+      },
+      {
+        "comp_id": "C014-B",
+        "name": "Lightweight Kimono/Cover-Up",
+        "comp_description": "Sheer, patterned cover-up for protection and style."
+      },
+      {
+        "comp_id": "C014-C",
+        "name": "Strappy Sandals",
+        "comp_description": "Elegant flat sandals with adjustable straps."
+      },
+      {
+        "comp_id": "C014-D",
+        "name": "Wide-Brim Sun Hat",
+        "comp_description": "Large woven hat for maximum sun protection and style."
+      },
+      {
+        "comp_id": "C014-E",
+        "name": "SPF Lip Balm Kit",
+        "comp_description": "A set of high-SPF, moisturizing lip balms."
+      },
+      {
+        "comp_id": "C014-F",
+        "name": "Delicate Anklet (Bangle)",
+        "comp_description": "Thin, gold-plated anklet with a charm."
+      },
+      {
+        "comp_id": "C014-G",
+        "name": "Small Woven Beach Bag",
+        "comp_description": "Natural fiber bag perfect for carrying small beach items."
+      }
+    ]
+  },
+  {
+    "kit_id": "SSK015",
+    "kit_name": "The Sunset Lounge",
+    "gender": "Unisex",
+    "category": "Destination & Beachwear",
+    "price_naira": 52000,
+    "selected": false,
+    "selectedTheme": null,
+    "selectedSize": null,
+    "quantity": 1,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "Custom"
+    ],
+    "theme_colors": [
+      "Terracotta",
+      "White",
+      "Wicker Beige",
+      "Warm Yellow"
+    ],
+    "image_url_base": "sunset",
+    "kit_description": "The perfect transition from a day of exploration to an evening of relaxed socializing. **The Sunset Lounge** kit pairs comfortable cotton shorts and a simple V-neck T-shirt with breathable espadrilles. The round-frame sunglasses and lightweight travel backpack ensure you have everything you need for your afternoon ventures. The inclusion of a small portable speaker means you're always ready to set the mood, whether at a beach bar or watching the sun drop from your balcony.",
+    "components": [
+      {
+        "comp_id": "C015-A",
+        "name": "Comfortable Cotton Shorts",
+        "comp_description": "Soft cotton shorts with an elastic waist."
+      },
+      {
+        "comp_id": "C015-B",
+        "name": "V-Neck T-Shirt",
+        "comp_description": "Lightweight cotton V-neck tee."
+      },
+      {
+        "comp_id": "C015-C",
+        "name": "Espadrilles",
+        "comp_description": "Canvas shoes with rope soles for comfortable, breathable wear."
+      },
+      {
+        "comp_id": "C015-D",
+        "name": "Round-Frame Sunglasses",
+        "comp_description": "Stylish, vintage-inspired round sunglasses."
+      },
+      {
+        "comp_id": "C015-E",
+        "name": "Lightweight Travel Backpack",
+        "comp_description": "Packable nylon backpack for day trips."
+      },
+      {
+        "comp_id": "C015-F",
+        "name": "Portable Bluetooth Speaker",
+        "comp_description": "Small, water-resistant speaker for travel."
+      },
+      {
+        "comp_id": "C015-G",
+        "name": "Small, Colourful Wristband",
+        "comp_description": "A simple, sporty accessory for wrist."
+      }
+    ]
+  },
+  {
+    "kit_id": "SSK016",
+    "kit_name": "The Wedding Guest",
+    "gender": "Male",
+    "category": "Special & Unique Occasions",
+    "price_naira": 115000,
+    "selected": false,
+    "selectedTheme": null,
+    "selectedSize": null,
+    "quantity": 1,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "Custom"
+    ],
+    "theme_colors": [
+      "Maroon",
+      "Gold",
+      "Black",
+      "Royal Blue"
+    ],
+    "image_url_base": "wedding",
+    "kit_description": "A refined look blending tradition and contemporary elegance for celebrations. **The Wedding Guest** kit is built around the majestic Isiagu top and matching trousers, providing a regal, ceremonial foundation. The slip-on mules and beaded necklace add a modern touch of luxury. With a matching traditional cap and a beaded wristlet, every element speaks to cultural pride and sartorial excellence. This ensemble ensures you are dressed not just for the wedding, but for the respect and celebration of the occasion.",
+    "components": [
+      {
+        "comp_id": "C016-A",
+        "name": "Traditional Isiagu Top",
+        "comp_description": "Authentic top with embroidery and detailing, representing Nigerian heritage."
+      },
+      {
+        "comp_id": "C016-B",
+        "name": "Matching Trousers",
+        "comp_description": "Coordinating formal trousers."
+      },
+      {
+        "comp_id": "C016-C",
+        "name": "Slip-On Mules",
+        "comp_description": "Elegant, closed-toe slip-on shoes."
+      },
+      {
+        "comp_id": "C016-D",
+        "name": "Beaded Necklace",
+        "comp_description": "Hand-strung necklace adding a traditional flourish."
+      },
+      {
+        "comp_id": "C016-E",
+        "name": "Pocket Square Set",
+        "comp_description": "Luxury silk pocket squares in complementary colors."
+      },
+      {
+        "comp_id": "C016-F",
+        "name": "A Cap (Traditional Style Headwear)",
+        "comp_description": "A stylish, folded cap (Fila/Agbada style) that complements the top."
+      },
+      {
+        "comp_id": "C016-G",
+        "name": "Matching Beaded Wristlet (Bangle)",
+        "comp_description": "Coordinating beaded accessory for the wrist."
+      }
+    ]
+  },
+  {
+    "kit_id": "SSK017",
+    "kit_name": "The Art Gallery",
+    "gender": "Female",
+    "category": "Special & Unique Occasions",
+    "price_naira": 82000,
+    "selected": false,
+    "selectedTheme": null,
+    "selectedSize": null,
+    "quantity": 1,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "Custom"
+    ],
+    "theme_colors": [
+      "Deep Black",
+      "Ivory",
+      "Sculptural Silver"
+    ],
+    "image_url_base": "art",
+    "kit_description": "A study in structure and sophistication, perfect for cultural events and exclusive openings. **The Art Gallery** kit features an architectural jumpsuit and structured blazer, designed to be as visually compelling as the art itself. Pointed flats ensure comfort during long viewings, while the sculptural bracelet and clutch bag provide artistic accents. Subtle sheer tights complete the elegant, thoughtful composition. This kit ensures you look like the masterpiece in the room.",
+    "components": [
+      {
+        "comp_id": "C017-A",
+        "name": "Architectural Jumpsuit",
+        "comp_description": "A structured jumpsuit with clean lines and unique design details."
+      },
+      {
+        "comp_id": "C017-B",
+        "name": "Structured Blazer",
+        "comp_description": "A tailored blazer with sharp shoulders and a modern length."
+      },
+      {
+        "comp_id": "C017-C",
+        "name": "Pointed Flats",
+        "comp_description": "Elegant leather or suede flats with a pointed toe."
+      },
+      {
+        "comp_id": "C017-D",
+        "name": "Sculptural Bracelet",
+        "comp_description": "An oversized, artistic metal cuff or bangle."
+      },
+      {
+        "comp_id": "C017-E",
+        "name": "Clutch Bag",
+        "comp_description": "A sleek, minimalist clutch large enough for a phone and cards."
+      },
+      {
+        "comp_id": "C017-F",
+        "name": "Sheer Black Tights/Socks",
+        "comp_description": "Fine-denier sheer hosiery for a polished finish."
+      },
+      {
+        "comp_id": "C017-G",
+        "name": "Subtle Drop Earrings",
+        "comp_description": "Minimalist earrings with a gentle drop."
+      }
+    ]
+  },
+  {
+    "kit_id": "SSK018",
+    "kit_name": "The Road Trip Ready",
+    "gender": "Unisex",
+    "category": "Special & Unique Occasions",
+    "price_naira": 69000,
+    "selected": false,
+    "selectedTheme": null,
+    "selectedSize": null,
+    "quantity": 1,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "Custom"
+    ],
+    "theme_colors": [
+      "Red Plaid",
+      "Deep Indigo",
+      "Leather Brown"
+    ],
+    "image_url_base": "roadtrip",
+    "kit_description": "Built for comfort, durability, and the open road. **The Road Trip Ready** kit features a heavyweight flannel shirt and durable denim jeans, capable of handling long drives and rough terrain. Hiking boots provide rugged support, and the thermal travel mug keeps your beverage just right. The addition of thick thermal socks and a knit beanie ensures warmth, while the small first-aid kit offers peace of mind. This kit is prepared for adventure, no matter the distance.",
+    "components": [
+      {
+        "comp_id": "C018-A",
+        "name": "Heavyweight Flannel Shirt",
+        "comp_description": "Thick, warm flannel shirt perfect for layering."
+      },
+      {
+        "comp_id": "C018-B",
+        "name": "Durable Denim Jeans",
+        "comp_description": "Rugged denim built for comfort and long wear."
+      },
+      {
+        "comp_id": "C018-C",
+        "name": "Hiking Boots",
+        "comp_description": "Sturdy, waterproof boots with ankle support."
+      },
+      {
+        "comp_id": "C018-D",
+        "name": "Thermal Travel Mug",
+        "comp_description": "Insulated mug with a secure, leak-proof lid."
+      },
+      {
+        "comp_id": "C018-E",
+        "name": "Small First-Aid Kit",
+        "comp_description": "Compact kit containing essentials for minor emergencies."
+      },
+      {
+        "comp_id": "C018-F",
+        "name": "Thick Thermal Socks",
+        "comp_description": "Wool-blend socks for superior warmth."
+      },
+      {
+        "comp_id": "C018-G",
+        "name": "Knit Beanie (Head Warmer)",
+        "comp_description": "Classic knit beanie for versatile wear."
+      }
+    ]
+  },
+  {
+    "kit_id": "SSK019",
+    "kit_name": "The Midnight Muse",
+    "gender": "Female",
+    "category": "Special & Unique Occasions",
+    "price_naira": 58000,
+    "selected": false,
+    "selectedTheme": null,
+    "selectedSize": null,
+    "quantity": 1,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "Custom"
+    ],
+    "theme_colors": [
+      "Black Lace",
+      "Silky Ivory",
+      "Rose Gold"
+    ],
+    "image_url_base": "midnight",
+    "kit_description": "Indulge in an evening of self-love and private luxury. **The Midnight Muse** kit transforms bedtime into a ritual. The mock lingerie set and silky robe/kaftan provide comfort and elegance, perfectly paired with feathered slippers. A satin sleep mask guarantees deep, restful sleep, enhanced by the custom room diffuser. A delicate neck chain lace and matching hair accessories complete this intimate ensemble, making every evening feel like a retreat.",
+    "components": [
+      {
+        "comp_id": "C019-A",
+        "name": "Lingerie Set (Mock)",
+        "comp_description": "A delicate, high-quality two-piece set for elegant rest."
+      },
+      {
+        "comp_id": "C019-B",
+        "name": "Feathered Slippers",
+        "comp_description": "Soft slip-on slippers with stylish feather trim."
+      },
+      {
+        "comp_id": "C019-C",
+        "name": "Soft Robe/Kaftan",
+        "comp_description": "A flowing, satin-like robe or kaftan for comfortable layering."
+      },
+      {
+        "comp_id": "C019-D",
+        "name": "Satin Sleep Mask",
+        "comp_description": "Smooth mask designed to block light and protect skin."
+      },
+      {
+        "comp_id": "C019-E",
+        "name": "Custom Room Diffuser",
+        "comp_description": "A reed diffuser with a bespoke relaxing scent blend."
+      },
+      {
+        "comp_id": "C019-F",
+        "name": "Delicate Neck Chain Lace",
+        "comp_description": "Fine, minimal body jewelry."
+      },
+      {
+        "comp_id": "C019-G",
+        "name": "Matching Hair Band/Scrunchie",
+        "comp_description": "Soft hair accessories to keep hair tidy while sleeping."
+      }
+    ]
+  },
+  {
+    "kit_id": "SSK020",
+    "kit_name": "The Essential Layer",
+    "gender": "Unisex",
+    "category": "Special & Unique Occasions",
+    "price_naira": 49000,
+    "selected": false,
+    "selectedTheme": null,
+    "selectedSize": null,
+    "quantity": 1,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "Custom"
+    ],
+    "theme_colors": [
+      "Heather Grey",
+      "Deep Teal",
+      "Muted Yellow"
+    ],
+    "image_url_base": "essential",
+    "kit_description": "Master the art of warmth and mobility, perfect for cozy nights in or chilly outdoor adventures. **The Essential Layer** kit is centered on the ultra-soft turtleneck and thermal socks, providing maximum insulation. The convertible mittens adapt to your needs, while the headlamp/book light makes it ideal for late-night reading or navigating. Complete with a soft knit head warmer and a lightweight travel blanket, this kit ensures you are comfortable, prepared, and perfectly layered against the cold.",
+    "components": [
+      {
+        "comp_id": "C020-A",
+        "name": "Ultra-Soft Turtleneck",
+        "comp_description": "High-neck top made from luxuriously soft thermal fabric."
+      },
+      {
+        "comp_id": "C020-B",
+        "name": "Relaxed-Fit Trousers",
+        "comp_description": "Comfortable, relaxed trousers for lounging or light activity."
+      },
+      {
+        "comp_id": "C020-C",
+        "name": "Thermal Socks",
+        "comp_description": "Heavy-duty socks offering superior heat retention."
+      },
+      {
+        "comp_id": "C020-D",
+        "name": "Convertible Mittens",
+        "comp_description": "Mittens that convert to fingerless gloves for functionality."
+      },
+      {
+        "comp_id": "C020-E",
+        "name": "Headlamp/Book Light",
+        "comp_description": "Small, adjustable light for reading or hands-free visibility."
+      },
+      {
+        "comp_id": "C020-F",
+        "name": "Wool-Blend Head Warmer/Barate",
+        "comp_description": "Thick, knit head covering for cold weather."
+      },
+      {
+        "comp_id": "C020-G",
+        "name": "Lightweight Travel Blanket",
+        "comp_description": "Compact, soft blanket ideal for travel or home use."
+      }
+    ]
+  }
+]

@@ -1,0 +1,139 @@
+.parent-content {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  transition: flex 0s;
+}
+
+.Panel-holder {
+  background-color: rgba(255, 255, 255, 0.3);
+  backdrop-filter: blur(10px);
+  border-radius: 0 0 20px 20px;
+  p {
+    cursor: pointer;
+    &:hover {
+      transform: scale(1.05);
+    }
+  }
+}
+
+.NotFound {
+  flex-direction: column;
+}
+
+.Footer {
+  position: relative;
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 40px 10px;
+  p,
+  i {
+    cursor: pointer;
+  }
+}
+
+.StepsFlex {
+  scrollbar-width: none;
+  > * {
+    flex: 0 0 50%;
+    width: 50%;
+    &:first-of-type {
+      margin-left: 25%;
+    }
+    &:last-of-type {
+      margin-right: 25%;
+    }
+  }
+}
+
+.Profile {
+  label {
+    font-size: 12px;
+    display: block;
+    margin: 7.5px 0 7.5px 7.5px;
+    text-transform: capitalize;
+    position: relative;
+    display: grid;
+    grid-template-columns: auto 1fr;
+    align-items: center;
+    font-family: monospace;
+  }
+  input,
+  select {
+    border: none;
+    outline: none;
+    padding: 5px 10px;
+    margin-left: 5px;
+
+    border-radius: 0;
+    background-color: rgba(255, 255, 255, 0.65);
+    text-transform: capitalize;
+
+    &:disabled {
+      background-color: transparent;
+      color: black;
+      font-weight: bold;
+      font-size: 14px;
+    }
+  }
+  
+}
+
+.canMiss {
+    display: none;
+  }
+
+@media (min-width: 600px) {
+  .Footer {
+    grid-template-columns: 1fr 1fr;
+  }
+  .productInfoFlex {
+    display: flex;
+  }
+}
+
+@media (min-width: 800px) {
+  .CartFlex {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+  }
+  .GetThis {
+    display: block;
+  }
+  .canMiss {
+    display: inline;
+  }
+}
+
+@media (min-width: 1000px) {
+  .parent-content {
+    flex-direction: row;
+    > * {
+      height: 100vh;
+      overflow-y: scroll;
+      scrollbar-width: none;
+    }
+    > *:first-child {
+      flex: 75 0 0;
+    }
+    footer {
+      flex: 25 0 0;
+      grid-template-columns: 1fr;
+    }
+  }
+  .NotFound {
+    flex-direction: row;
+  }
+}
+
+@keyframes scroll {
+  0% {
+    transform: translateX(0);
+  }
+  50% {
+    transform: translateX(-100%);
+  }
+  100% {
+    transform: translateX(0%);
+  }
+}
